@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "kioloa PopGen",
+    "section": "",
+    "text": "Preamble\nThis is a Quarto book and the following page is just for convenience when writing the book.\n(so just ignore)\n\n\n\n\n\n\nExercise\n\n\n\n Note that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\nNOTICE! Thank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!\n\n\nNOTICE!\nThank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!\n\n\n\nNext\n\ncat(\"sdaafsadfsdafasd\")\n\nsdaafsadfsdafasd\n\n1+1\n\n[1] 2\n\n\nAs demonstrated by @gruber2018 we can do the following. see also @mijangos2022"
+  },
+  {
+    "objectID": "myquarto.html#quarto",
+    "href": "myquarto.html#quarto",
+    "title": "1  myquarto",
+    "section": "1.1 Quarto",
+    "text": "1.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "myqurto2.html#quarto",
+    "href": "myqurto2.html#quarto",
+    "title": "2  my second chapter",
+    "section": "2.1 Quarto",
+    "text": "2.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "myqurto2.html#running-code",
+    "href": "myqurto2.html#running-code",
+    "title": "2  my second chapter",
+    "section": "2.2 Running Code",
+    "text": "2.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "tutorials.html#embed-from-url-only",
+    "href": "tutorials.html#embed-from-url-only",
+    "title": "3  Tutorials",
+    "section": "3.1 Embed from URL only",
+    "text": "3.1 Embed from URL only\n{{&lt; pdf tutorial3.pdf width=100% height=600 &gt;}}\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "tutorials.html#embed-border",
+    "href": "tutorials.html#embed-border",
+    "title": "3  Tutorials",
+    "section": "3.2 Embed border",
+    "text": "3.2 Embed border\n{{&lt; pdf tutorial3.pdf border=1 &gt;}}\nUnable to display PDF file. Download instead."
+  }
+]
