@@ -2,43 +2,106 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kioloa PopGen",
+    "title": "Kioloa PopGen",
     "section": "",
-    "text": "Preamble\nThis is a Quarto book and the following page is just for convenience when writing the book.\n(so just ignore)\n\n\n\n\n\n\nExercise\n\n\n\n Note that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\nNOTICE! Thank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!\n\n\nNOTICE!\nThank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!\n\n\n\nNext\n\ncat(\"sdaafsadfsdafasd\")\n\nsdaafsadfsdafasd\n\n1+1\n\n[1] 2\n\n\nAs demonstrated by @gruber2018 we can do the following. see also @mijangos2022"
+    "text": "Welcome!\nWelcome, Fellow Magical Beings, to our 5-day spellbinding journey in the mystical realm of Population Genetics using the ancient art of R! We’re over the moon (and not just because we’ve mastered levitation spells) to have you join us at the enchanted Kioloa ANU Coastal Campus. Nestled among the spellbound forests of Murramarang Nation Park and the crystal-clear waters of southern New South Wales, our meeting lair couldn’t be more perfect. When you’re not weaving R spells, you’ll find yourself spoiled for choice with magical brews (a.k.a. coffee) and breathtaking sceneries.\nOur coven is as varied as the potions in a wizard’s pantry, bringing together sorcerers from all corners of the realm. Here, every sorcerer and sorceress will don both the student’s cloak and the teacher’s hat, expanding their arcane knowledge in genetics for the noble causes of biodiversity conservation and ecosystem restoration. Expect a cauldron bubbling with interaction, where being right is as celebrated as making mistakes, where sensitivity meets resilience, and where every voice conjures new spells of knowledge, perspective, and innovation.\nOur quest is to master key incantations in population genetics, with our wands pointed firmly at the R statistical grimoire. We’re ditching the dusty tomes for hands-on magic, aiming to empower you to conjure your own population genetics enchantments by the end of our gathering. And fear not, there will be ample time to apply these spells on your own datasets.\nOur magic words? Cooperation, flexibility, and dedication. We embark on this journey with a spirit of camaraderie, ready to share potions, carry scrolls, and lend a helping wand in times of need. The path may twist and turn, with unexpected dragons (breakdowns), storms (rain), and spells gone awry (tech hiccups), but our collective humour and knack for improvisation will see us through.\nWe are united by a deep-seated dedication to unravelling the mysteries of genetics, a passion that burns as bright within you as it does within us. We believe this adventure will be rewarding not just intellectually, but also aesthetically, socially, and culturally. We can’t wait to embark on this enchanting journey with you. May our time together be as fulfilling as finding the philosopher’s stone!"
   },
   {
-    "objectID": "myquarto.html#quarto",
-    "href": "myquarto.html#quarto",
-    "title": "1  myquarto",
-    "section": "1.1 Quarto",
-    "text": "1.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#here-are-some-things-you-might-see-along-your-journey",
+    "href": "index.html#here-are-some-things-you-might-see-along-your-journey",
+    "title": "Kioloa PopGen",
+    "section": "Here are some things you might see along your journey:",
+    "text": "Here are some things you might see along your journey:\nBelow is an exercise box, this is encouraging you to give it a go yourself!\n\n\n\n\n\n\nExercise\n\n\n\n Note that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\nBelow is a caution box, take note, this will keep you on your path.\n\n\n\n\n\n\nCaution\n\n\n\nNOTICE!\nThank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!\n\n\nBelow is a warning box! Be careful and take head of what it says.\n\n\n\n\n\n\nWarning\n\n\n\nNOTICE! Thank you for noticing this new notice! Your noticing it has been noted, and will be reported to the authorities!"
   },
   {
-    "objectID": "myqurto2.html#quarto",
-    "href": "myqurto2.html#quarto",
-    "title": "2  my second chapter",
-    "section": "2.1 Quarto",
-    "text": "2.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "index.html#a-big-thank-you-to-the-developers",
+    "href": "index.html#a-big-thank-you-to-the-developers",
+    "title": "Kioloa PopGen",
+    "section": "A big thank you to the developers!",
+    "text": "A big thank you to the developers!\nDartR published first by Gruber et al. (2018), and DartR V2 published by Mijangos et al. (2022)\n\n\n\n\nGruber, Bernd, Peter J. Unmack, Oliver F. Berry, and Arthur Georges. 2018. “DARTR : An R Package to Facilitate Analysis of SNP Data Generated from Reduced Representation Genome Sequencing.” Molecular Ecology Resources 18 (3): 691–99. https://doi.org/10.1111/1755-0998.12745.\n\n\nMijangos, Jose Luis, Bernd Gruber, Oliver Berry, Carlo Pacioni, and Arthur Georges. 2022. “dartR V2: An Accessible Genetic Analysis Platform for Conservation, Ecology and Agriculture.” Methods in Ecology and Evolution 13 (10): 2150–58. https://doi.org/10.1111/2041-210X.13918."
   },
   {
-    "objectID": "myqurto2.html#running-code",
-    "href": "myqurto2.html#running-code",
-    "title": "2  my second chapter",
-    "section": "2.2 Running Code",
-    "text": "2.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "myquarto.html#required-packages",
+    "href": "myquarto.html#required-packages",
+    "title": "1 Intro to dartR",
+    "section": "Required packages",
+    "text": "Required packages\n\nlibrary(dartR.base)\nlibrary(dartR.data)"
   },
   {
-    "objectID": "tutorials.html#embed-from-url-only",
-    "href": "tutorials.html#embed-from-url-only",
-    "title": "3  Tutorials",
-    "section": "3.1 Embed from URL only",
-    "text": "3.1 Embed from URL only\n{{&lt; pdf tutorial3.pdf width=100% height=600 &gt;}}\nUnable to display PDF file. Download instead."
+    "objectID": "myquarto.html#dartr-fundamentals",
+    "href": "myquarto.html#dartr-fundamentals",
+    "title": "1 Intro to dartR",
+    "section": "dartR fundamentals",
+    "text": "dartR fundamentals\nHere is a glimpse at some of the functions we will be using.\n\ntestset.gl\n\ngl &lt;- testset.gl\nnInd(gl)\nnLoc(gl)\nnPop(gl)\npopNames(gl)\nindNames(gl)\nlocNames(gl)\ntable(pop(gl))\nas.matrix(gl)[1:7,1:5]\n\ngl.set.verbosity(3)\ngl.report.callrate(gl)\ngl.report.callrate(gl,method=\"ind\")\ngl.report.reproducibility(gl)\ngl.filter.callrate(gl,method =\"ind\", threshold=0.8)"
   },
   {
-    "objectID": "tutorials.html#embed-border",
-    "href": "tutorials.html#embed-border",
-    "title": "3  Tutorials",
-    "section": "3.2 Embed border",
-    "text": "3.2 Embed border\n{{&lt; pdf tutorial3.pdf border=1 &gt;}}\nUnable to display PDF file. Download instead."
+    "objectID": "myquarto.html#exercise",
+    "href": "myquarto.html#exercise",
+    "title": "1 Intro to dartR",
+    "section": "EXERCISE",
+    "text": "EXERCISE\nstill to come…"
+  },
+  {
+    "objectID": "myquarto.html#further-readings",
+    "href": "myquarto.html#further-readings",
+    "title": "1 Intro to dartR",
+    "section": "Further Readings",
+    "text": "Further Readings\nFor more tuturials see the dartR Tutorials section"
+  },
+  {
+    "objectID": "myqurto2.html",
+    "href": "myqurto2.html",
+    "title": "2 Pop Gen In Conservation",
+    "section": "",
+    "text": "still to come…"
+  },
+  {
+    "objectID": "Session10.html#required-packages",
+    "href": "Session10.html#required-packages",
+    "title": "10 Sex Linked Markers",
+    "section": "Required packages",
+    "text": "Required packages\n\nlibrary(dartR.base)\nlibrary(dartR.sexlinked)"
+  },
+  {
+    "objectID": "Session10.html#dataset-1---zwzz---the-yellow-tufted-honeyeater",
+    "href": "Session10.html#dataset-1---zwzz---the-yellow-tufted-honeyeater",
+    "title": "10 Sex Linked Markers",
+    "section": "Dataset 1 - ZW//ZZ - The Yellow Tufted Honeyeater",
+    "text": "Dataset 1 - ZW//ZZ - The Yellow Tufted Honeyeater\n\n\n\nThe Yellow Tufted Honeyeater\n\n\n\nLoad data\n\ncodedataSNPsIndividuals\n\n\n\ndata(\"YTH\")\n\nYTH  # Explore the dataset\nYTH@n.loc  # Number of SNPs\nlength(YTH@ind.names)  # Number of individuals\n\n\n\n\n\n ********************\n *** DARTR OBJECT ***\n ********************\n\n ** 609 genotypes,  994 SNPs , size: 49.9 Mb\n\n    missing data: 139174 (=22.99 %) scored as NA\n\n ** Genetic data\n   @gen: list of 609 SNPbin\n   @ploidy: ploidy of each individual  (range: 2-2)\n\n ** Additional data\n   @ind.names:  609 individual labels\n   @loc.names:  994 locus labels\n   @loc.all:  994 allele labels\n   @position: integer storing positions of the SNPs [within 69 base sequence]\n   @pop: population of each individual (group size range: 12-516)\n   @other: a list containing: loc.metrics, ind.metrics, loc.metrics.flags, verbose, history \n    @other$ind.metrics: id, pop, sex, sex_original, service, plate_location \n    @other$loc.metrics: AlleleID, CloneID, AlleleSequence, TrimmedSequence, Chrom_Lichenostomus_HeHo_v1, ChromPos_Lichenostomus_HeHo_v1, AlnCnt_Lichenostomus_HeHo_v1, AlnEvalue_Lichenostomus_HeHo_v1, SNP, SnpPosition, CallRate, OneRatioRef, OneRatioSnp, FreqHomRef, FreqHomSnp, FreqHets, PICRef, PICSnp, AvgPIC, AvgCountRef, AvgCountSnp, RepAvg, clone, uid, rdepth, maf \n   @other$latlon[g]: no coordinates attached\n\n\n\n\n\n\n[1] 994\n\n\n\n\n\n\n[1] 609\n\n\n\n\n\n\n\nRun filter.sex.linked\nThis function identifies sex-linked and autosomal loci present in a SNP dataset (i.e., genlight object) using individuals with known sex. It identifies five types of loci: w-linked or y-linked, sex-biased, z-linked or x-linked, gametologous and autosomal.\nThe genlight object must contain in gl@other$ind.metrics a column named “id”, and a column named “sex” in which individuals with known-sex are assigned ‘M’ for male, or ‘F’ for female. The function ignores individuals that are assigned anything else or nothing at all (unknown-sex).\n\n\n\nZW/ZZ sex chromosomes\n\n\n\n\n\n\n\n\nTip\n\n\n\nNOTE\nSet ncores to more than 1 (default) if you have more than 50,000 SNPs, since it could actually slow down the analysis with smaller datasets.\n\n\n\ncodetable\n\n\n\nhead(YTH@other$ind.metrics)  # Check that ind.metrics has the necessary columns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nid\npop\nsex\nsex_original\nservice\nplate_location\n\n\n\n\nANWC46839\nANWC46839\nMelanops\nF\nF\nDLich17-2918\n1-A1\n\n\nW49\nW49\nCassidix\nF\nF\nDLich17-2918\n1-A10\n\n\nW90\nW90\nCassidix\nF\nF\nDLich17-2918\n1-A12\n\n\nC25\nC25\nCassidix\nM\nM\nDLich17-2918\n1-A2\n\n\nC8\nC8\nCassidix\nM\nM\nDLich17-2918\n1-A3\n\n\nW70\nW70\nCassidix\nF\nF\nDLich17-2918\n1-A4\n\n\n\n\n\n\n\n\n\ncodeoutput\n\n\n\nres &lt;- dartR.sexlinked::filter.sex.linked(gl = YTH, system = \"zw\")\n\n\n\n\n\nDetected 276 females and 333 males.\n\n\nStarting phase 1. May take a while...\n\n\nBuilding call rate plots.\n\n\n\n\n\nDone. Starting phase 2.\n\n\nBuilding heterozygosity plots.\n\n\n\n\n\n\n\n\nDone building heterozygosity plots.\n\n\n**FINISHED** Total of analyzed loci: 994.\nFound 506 sex-linked loci:\n   52 W-linked loci\n   273 sex-biased loci\n   165 Z-linked loci\n   16 ZW gametologs.\nAnd 488 autosomal loci.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExercise\n\n\n\n\nHow many males and females does the dataset contain?\nHow many sex-linked loci were found?\n\n\nNow check the output:\n\ncodew.linkedz.linkedgametologsex.biasedautosomaltable\n\n\n\nres$w.linked  # Notice that it says 'w-linked'\nres$z.linked  # Notice that it says 'z-linked'\nres$gametolog\nres$sex.biased\nres$autosomal\nknitr::kable(head(res$results.table))  # The output table\n\n\n\n\n\n ********************\n *** DARTR OBJECT ***\n ********************\n\n ** 609 genotypes,  52 SNPs , size: 48.9 Mb\n\n    missing data: 17304 (=54.64 %) scored as NA\n\n ** Genetic data\n   @gen: list of 609 SNPbin\n   @ploidy: ploidy of each individual  (range: 2-2)\n\n ** Additional data\n   @ind.names:  609 individual labels\n   @loc.names:  52 locus labels\n   @loc.all:  52 allele labels\n   @position: integer storing positions of the SNPs [within 69 base sequence]\n   @pop: population of each individual (group size range: 12-516)\n   @other: a list containing: loc.metrics, ind.metrics, loc.metrics.flags, verbose, history \n    @other$ind.metrics: id, pop, sex, sex_original, service, plate_location \n    @other$loc.metrics: AlleleID, CloneID, AlleleSequence, TrimmedSequence, Chrom_Lichenostomus_HeHo_v1, ChromPos_Lichenostomus_HeHo_v1, AlnCnt_Lichenostomus_HeHo_v1, AlnEvalue_Lichenostomus_HeHo_v1, SNP, SnpPosition, CallRate, OneRatioRef, OneRatioSnp, FreqHomRef, FreqHomSnp, FreqHets, PICRef, PICSnp, AvgPIC, AvgCountRef, AvgCountSnp, RepAvg, clone, uid, rdepth, maf \n   @other$latlon[g]: no coordinates attached\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe output consists of a genlight object for each type of loci, plus a results table.\n\n\nRun infer.sex\nThis function uses the complete output of function filter.sex.linked (list of 6 objects) to infer the sex of all individuals in the dataset. Specifically, the function uses 3 types of sex-linked loci (W-/Y-linked, Z-/X-linked, and gametologs), assigns a preliminary genetic sex for each type of sex-linked loci available, and outputs an agreed sex.\n\nsexID &lt;- dartR.sexlinked::infer.sex(gl_sex_filtered = res, system = \"zw\",\n    seed = 124)\n\n***FINISHED***\n\nknitr::kable(head(sexID))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nid\nw.linked.sex\n#missing\n#called\nz.linked.sex\n#Hom.z\n#Het.z\ngametolog.sex\n#Hom.g\n#Het.g\nagreed.sex\n\n\n\n\nANWC46839\nANWC46839\nF\n51\n1\nF\n1\n141\nF\n5\n0\nF\n\n\nW49\nW49\nF\n52\n0\nF\n2\n156\nF\n5\n0\nF\n\n\nW90\nW90\nF\n48\n4\nF\n0\n162\nF\n5\n0\nF\n\n\nC25\nC25\nM\n0\n52\nM\n52\n113\nM\n0\n5\nM\n\n\nC8\nC8\nM\n0\n52\nM\n48\n116\nM\n0\n5\nM\n\n\nW70\nW70\nF\n49\n3\nF\n0\n152\nF\n5\n0\nF\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nIMPORTANT We created this function with the explicit intent that a human checks the evidence for the agreed sex that do NOT agree for all types of sex-linked loci (denoted as ‘*M’ or ‘*F’). This human can then use their criterion to validate these assignments.\n\n\n\n\n\n\n\n\nExercise\n\n\n\n\nCan you find individuals for which the agreed sex is uncertain (i.e., has an asterisk “*”)?"
+  },
+  {
+    "objectID": "Session10.html#exercise-2",
+    "href": "Session10.html#exercise-2",
+    "title": "10 Sex Linked Markers",
+    "section": "EXERCISE",
+    "text": "EXERCISE\n\n\n\n\n\n\nExercise\n\n\n\n\nImagine you are analyzing the genetic data of a population and you want to look at its genetic structure and genetic diversity. You get to work by filtering your beautiful set of SNPs. Because you are a rigorous, you want to test whether using function filter.sex.linked to properly filter out sex-linked loci changes the results of the populations analyses. So you: (1) process your SNP dataset by applying standard filters and run analyses, and (2) process the dataset by filtering out sex-linked loci first, applying standard filters second, and then run analyses.\nChoose one of the following datasets (or your own data) and report:\n\nHow many sex-linked markers are present?\nHow many individuals had a wrong sexID?\nDo you see any changes in your PCA/structure analyses when you filtered out sex-linked markers versus when you did not?\nDo you see any differences in genetic diversity and fixation indices when you filtered out sex-linked markers versus when you did not?\n\n\n\n \n \n\nExercise data 1 - Your own data\n\nHINT\nYou can have a look at the exercise data below for inspiration.\n\n\n1. Number of sex-linked markers?\n\n\n2. Individuals with wrong sexID?\n\n\n3. Changes in PCA before and after removing the SLM?\n\n\n4. Differences in genetic diversity and fixation indices between autosomal and SLM?\n\n\n\nExercise data 2 - The Eastern Yellow Robin\nData from Robledo-Ruiz et al. (2023)\n\n\n\nThe Eastern Yellow Robin"
+  },
+  {
+    "objectID": "Session10.html#further-readings",
+    "href": "Session10.html#further-readings",
+    "title": "10 Sex Linked Markers",
+    "section": "Further Readings",
+    "text": "Further Readings\nDevloo-Delva, F., Burridge, C. P., Kyne, P. M., Brunnschweiler, J. M., Chapman, D. D., Charvet, P., … & Feutry, P. (2023). From rivers to ocean basins: The role of ocean barriers and philopatry in the genetic structuring of a cosmopolitan coastal predator. Ecology and Evolution, 13(2), e9837. https://doi.org/10.1002/ece3.9837\nNikolic, N., Devloo-Delva, F., Bailleul, D., Noskova, E., Rougeux, C., Delord, C., … & Arnaud‐Haond, S. (2023). Stepping up to genome scan allows stock differentiation in the worldwide distributed blue shark Prionace glauca. Molecular Ecology, 32(5), 1000-1019. https://doi.org/10.1111/mec.16822\nRobledo-Ruiz, D. A., Austin, L., Amos, J. N., Castrejón-Figueroa, J., Harley, D. K. P., Magrath, M. J. L., Sunnucks, P., & Pavlova, A. (2023). Easy-to-use R functions to separate reduced-representation genomic datasets into sex-linked and autosomal loci, and conduct sex assignment. Molecular Ecology Resources, 00, 1–21. https://doi.org/10.1111/1755-0998.13844\n\n\n\n\nRobledo-Ruiz, Diana A., Lana Austin, J. Nevil Amos, Jesús Castrejón-Figueroa, Daniel K. P. Harley, Michael J. L. Magrath, Paul Sunnucks, and Alexandra Pavlova. 2023. “Easy-to-Use R Functions to Separate Reduced-Representation Genomic Datasets into Sex-Linked and Autosomal Loci, and Conduct Sex Assignment.” Molecular Ecology Resources 0 (n/a). https://doi.org/10.1111/1755-0998.13844."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Gruber, Bernd, Peter J. Unmack, Oliver F. Berry, and Arthur Georges.\n2018. “DARTR : An R Package\nto Facilitate Analysis of SNP Data Generated from Reduced\nRepresentation Genome Sequencing.” Molecular Ecology\nResources 18 (3): 691–99. https://doi.org/10.1111/1755-0998.12745.\n\n\nMijangos, Jose Luis, Bernd Gruber, Oliver Berry, Carlo Pacioni, and\nArthur Georges. 2022. “dartR V2:\nAn Accessible Genetic Analysis Platform for Conservation,\nEcology and Agriculture.” Methods in Ecology and\nEvolution 13 (10): 2150–58. https://doi.org/10.1111/2041-210X.13918.\n\n\nRobledo-Ruiz, Diana A., Lana Austin, J. Nevil Amos, Jesús\nCastrejón-Figueroa, Daniel K. P. Harley, Michael J. L. Magrath, Paul\nSunnucks, and Alexandra Pavlova. 2023. “Easy-to-Use R\nFunctions to Separate Reduced-Representation Genomic Datasets into\nSex-Linked and Autosomal Loci, and Conduct Sex Assignment.”\nMolecular Ecology Resources 0 (n/a). https://doi.org/10.1111/1755-0998.13844."
+  },
+  {
+    "objectID": "tutorials.html#data-structure",
+    "href": "tutorials.html#data-structure",
+    "title": "dartR Tutorials",
+    "section": "Data Structure",
+    "text": "Data Structure\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "tutorials.html#data-manipulation",
+    "href": "tutorials.html#data-manipulation",
+    "title": "dartR Tutorials",
+    "section": "Data Manipulation",
+    "text": "Data Manipulation\nUnable to display PDF file. Download instead."
   }
 ]
